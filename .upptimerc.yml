@@ -1,29 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: wumingshiali # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 个人网站稳定版
+    url: https://meali.top
+  - name: 个人网站开发版
+    url: https://dev.meali.top
+  - name: 博客
+    url: https://blog.meali.top
+  - name: 通缉令生成器
+    url: https://tjl.meali.top
+  - name: 文字渲染器
+    url: https://tg.meali.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.meali.top
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  logoUrl: https://meali.top/zdn/me.png
+  name: Ukncat - 状态监测
+  introTitle: "Ukncat 的状态检测喵~~~"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: 状态
       href: /
+    - title: 个人网站
+      href: https://meali.top
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
