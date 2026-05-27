@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://meali.top/zdn/me.png
   name: Ukncat - 状态监测
   introTitle: "Ukncat 的状态检测喵~~~"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: 让我看看猫猫死没死🔍
   navbar:
     - title: 状态
       href: /
