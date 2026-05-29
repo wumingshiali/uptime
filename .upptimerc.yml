@@ -30,6 +30,21 @@ status-website:
       href: https://meali.top
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+workflowSchedule:
+  # 核心监控：每 5 分钟检测一次网站状态（最高频，确保及时发现宕机）
+  uptime: "*/5 * * * *"
+  
+  # 面板部署：每 15 分钟重新构建并部署一次状态面板网页
+  staticSite: "*/15 * * * *"
+  
+  # 辅助统计：每小时更新一次（防止图表 SVG 导致 Git 仓库体积爆炸）
+  graphs: "0 * * * *"           
+  responseTime: "0 * * * *"     
+  summary: "0 * * * *"          
+  
+  # 低频维护：每天凌晨更新一次
+  updateTemplate: "0 0 * * *"   
+  updates: "0 0 * * *"          
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
