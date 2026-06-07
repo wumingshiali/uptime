@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meali.top.ico",
     "slug": "个人网站稳定版",
     "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.77%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 432,
     "timeDay": 609,
     "timeWeek": 453,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-05-28": 85,
       "2026-05-31": 86,
-      "2026-06-07": 1
+      "2026-06-07": 2
     }
   },
   {
@@ -70,8 +70,8 @@
     "slug": "通缉令生成器",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
     "time": 449,
@@ -81,7 +81,7 @@
     "timeYear": 449,
     "dailyMinutesDown": {
       "2026-05-31": 85,
-      "2026-06-07": 0
+      "2026-06-07": 2
     }
   },
   {
@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tg.meali.top.ico",
     "slug": "文字渲染器",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.06%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 534,
     "timeDay": 554,
     "timeWeek": 533,
@@ -102,7 +102,8 @@
     "timeYear": 534,
     "dailyMinutesDown": {
       "2026-05-30": 47,
-      "2026-05-31": 84
+      "2026-05-31": 84,
+      "2026-06-07": 1
     }
   }
 ]
