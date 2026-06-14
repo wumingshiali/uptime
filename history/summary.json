@@ -50,9 +50,9 @@
     "url": "https://blog.meali.top",
     "icon": "https://icons.duckduckgo.com/ip3/blog.meali.top.ico",
     "slug": "博客",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.83%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.42%",
@@ -65,7 +65,8 @@
       "2026-05-28": 84,
       "2026-05-31": 85,
       "2026-06-07": 82,
-      "2026-06-10": 137
+      "2026-06-10": 137,
+      "2026-06-14": 1
     }
   },
   {
@@ -73,9 +74,9 @@
     "url": "https://tjl.meali.top",
     "icon": "https://icons.duckduckgo.com/ip3/tjl.meali.top.ico",
     "slug": "通缉令生成器",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.80%",
@@ -87,7 +88,8 @@
     "dailyMinutesDown": {
       "2026-05-31": 85,
       "2026-06-07": 77,
-      "2026-06-10": 132
+      "2026-06-10": 132,
+      "2026-06-14": 0
     }
   },
   {
@@ -95,12 +97,12 @@
     "url": "https://tg.meali.top",
     "icon": "https://icons.duckduckgo.com/ip3/tg.meali.top.ico",
     "slug": "文字渲染器",
-    "status": "up",
-    "uptime": "98.65%",
+    "status": "down",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 497,
     "timeDay": 539,
     "timeWeek": 445,
