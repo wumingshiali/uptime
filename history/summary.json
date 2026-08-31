@@ -12,8 +12,8 @@
     "uptimeYear": "98.19%",
     "time": 179,
     "timeDay": 140,
-    "timeWeek": 176,
-    "timeMonth": 140,
+    "timeWeek": 177,
+    "timeMonth": 139,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-28": 85,
@@ -38,7 +38,7 @@
     "uptimeYear": "99.71%",
     "time": 332,
     "timeDay": 120,
-    "timeWeek": 185,
+    "timeWeek": 186,
     "timeMonth": 206,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -62,8 +62,8 @@
     "uptimeYear": "99.54%",
     "time": 432,
     "timeDay": 464,
-    "timeWeek": 495,
-    "timeMonth": 418,
+    "timeWeek": 499,
+    "timeMonth": 417,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2026-05-28": 84,
@@ -80,15 +80,15 @@
     "url": "https://tjl.meali.top",
     "icon": "https://icons.duckduckgo.com/ip3/tjl.meali.top.ico",
     "slug": "通缉令生成器",
-    "status": "up",
-    "uptime": "44.29%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "44.31%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.16%",
-    "uptimeYear": "44.29%",
+    "uptimeMonth": "71.27%",
+    "uptimeYear": "44.31%",
     "time": 526,
     "timeDay": 731,
-    "timeWeek": 782,
+    "timeWeek": 784,
     "timeMonth": 799,
     "timeYear": 526,
     "dailyMinutesDown": {
@@ -151,7 +151,8 @@
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 515,
-      "2026-08-20": 39
+      "2026-08-20": 39,
+      "2026-08-31": 0
     }
   },
   {
@@ -167,7 +168,7 @@
     "uptimeYear": "96.68%",
     "time": 413,
     "timeDay": 448,
-    "timeWeek": 442,
+    "timeWeek": 443,
     "timeMonth": 402,
     "timeYear": 413,
     "dailyMinutesDown": {
